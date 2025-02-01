@@ -66,7 +66,8 @@ Let me know if you need further refinements!
   />
   <img src="https://streak-stats.demolab.com/?user=hnjm" />
 </picture>
-<--
+
+
  <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -81,4 +82,4 @@ Let me know if you need further refinements!
     src="https://raw.githubusercontent.com/hnjm/hnjm/output3d/profile-south-season-animate.svg"
   />
 </picture>
--->
+
